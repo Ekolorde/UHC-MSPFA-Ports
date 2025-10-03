@@ -1,2 +1,2 @@
-# UHC-KittyQuest-Port
-A port of the MSPFA story KittyQuest as a mod for the Unofficial Homestuck Collection.
+# UHC-MSPFA-Ports
+Ports of MSPFA stories as mods for the Unofficial Homestuck Collection. Currently I've got *KittyQuest* and *The Crow Strider AU*
